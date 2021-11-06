@@ -5,7 +5,8 @@
     <output-test url="file://$MODULE_DIR$/../../core/target/scala-2.12/test-classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../core">
-      <sourceFolder url="file://$MODULE_DIR$/../../core/target/scala-2.12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../core/target/scala-2.12/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../core/target/scala-2.12/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../core/target" />
     </content>
     <orderEntry type="inheritedJdk" />

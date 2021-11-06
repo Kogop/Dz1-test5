@@ -9,8 +9,8 @@ lazy val data = project
 
 lazy val core = project
   .dependsOn(data)
- // .settings (
- //   libraryDependencies +=scalatest
+//  .settings (
+//    libraryDependencies +=scalatest
  // )
 
 
